@@ -25,7 +25,7 @@
                     class="btn btn-sm btn-danger"
                     @click="removeAllContacts"
                     >
-                    <i class="fas fa-facebook"></i> Xóa tất cả
+                    <i class="fas fa-trash"></i> Xóa tất cả
                 </button>
             </div>
         </div>
